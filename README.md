@@ -5,7 +5,7 @@
 - :shit: I am working on models of galaxy formation (empirical/semi-analytical/hydro) and statistical interpretation of observations.
 
 - :ghost: Projects that I am working on
-  - [TwoPhaseGalaxyModel](https://github.com/ChenYangyao/two-phase-galaxy-model): a modern C++ toolkit for high-performance computation.
+  - [TwoPhaseGalaxyModel](https://github.com/ChenYangyao/two-phase-galaxy-model): a two-phase scenario of galaxy formation and its semi-analytic implementation.
   - [ELUCID project](https://www.elucid-project.com/): a project for cosmological field reconstruction.
   - [HIPP](https://github.com/ChenYangyao/hipp): a modern C++ toolkit for high-performance computation.
 
