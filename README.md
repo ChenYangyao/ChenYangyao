@@ -6,7 +6,7 @@
 
 - :ghost: Projects that I am working on
   - [TwoPhaseGalaxyModel](https://github.com/ChenYangyao/two-phase-galaxy-model): a two-phase scenario of galaxy formation and its semi-analytic implementation.
-  - [ELUCID project](https://www.elucid-project.com/): a project for cosmological field reconstruction.
+  - [ELUCID](https://www.elucid-project.com/): cosmological field reconstruction.
   
 - Tools for astronomy
   - [HIPP](https://github.com/ChenYangyao/hipp): A modern C++ toolkit for high-performance computation.
