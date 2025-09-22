@@ -7,6 +7,7 @@
 - :ghost: Projects that I am working on
   - [TwoPhaseGalaxyModel](https://github.com/ChenYangyao/two-phase-galaxy-model): a two-phase scenario of galaxy formation and its semi-analytic implementation.
   - [ELUCID](https://www.elucid-project.com/): cosmological field reconstruction.
+  - [dwarf_assembly_bias](https://github.com/ChenYangyao/dwarf_assembly_bias): assembly bias observed in dwarf galaxies and its implication for dark-matter self-interaction.
   
 - Tools for astronomy
   - [HIPP](https://github.com/ChenYangyao/hipp): A modern C++ toolkit for high-performance computation.
