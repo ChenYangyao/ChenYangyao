@@ -1,13 +1,15 @@
 ### Hi there, this is Yangyao Chen (陈洋遥) 👋
 
-- :book: I am a postdoc @the Department of Astronomy of University of Science and Technology of China. 
+- :book: I am a researcher [@School of Astronomy and Space Science](https://astronomy.nju.edu.cn/) of Nanjing University (2025-).
 
-- :shit: I am working on models of galaxy formation (empirical/semi-analytical/hydro) and statistical interpretation of observations.
+- :book: I am a former postdoc @University of Science and Technology of China (2022-2025), and a former student in Tsinghua University (2017-2022) and Wuhan University (2013-2017).
+
+- :shit: I am working on theories of galaxy formation and statistical interpretation of observations.
 
 - :ghost: Projects that I am working on
+  - [dwarf_assembly_bias](https://github.com/ChenYangyao/dwarf_assembly_bias): assembly bias observed in dwarf galaxies and its implication for dark-matter self-interaction.
   - [TwoPhaseGalaxyModel](https://github.com/ChenYangyao/two-phase-galaxy-model): a two-phase scenario of galaxy formation and its semi-analytic implementation.
   - [ELUCID](https://www.elucid-project.com/): cosmological field reconstruction.
-  - [dwarf_assembly_bias](https://github.com/ChenYangyao/dwarf_assembly_bias): assembly bias observed in dwarf galaxies and its implication for dark-matter self-interaction.
   
 - Tools for astronomy
   - [HIPP](https://github.com/ChenYangyao/hipp): A modern C++ toolkit for high-performance computation.
@@ -30,4 +32,4 @@
 
 - Website: [www.chenyangyao.com](https://www.chenyangyao.com/)
 
-- List of publication: [NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/CtFl8zXWR0G1XAbYe7PjTw) and [Google Scholar](https://scholar.google.com/citations?user=_dfTRA8AAAAJ&hl=en).
+- List of publication: [NASA/ADS](https://ui.adsabs.harvard.edu/user/libraries/CtFl8zXWR0G1XAbYe7PjTw)
